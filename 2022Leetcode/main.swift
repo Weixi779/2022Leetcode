@@ -7,3 +7,5 @@
 
 import Foundation
 
+let test = Solution0301()
+print(test.convert("AB", 1))
