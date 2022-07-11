@@ -7,5 +7,5 @@
 
 import Foundation
 
-let test = Solution0301()
-print(test.convert("AB", 1))
+let test = Solution0304()
+print(test.subArrayRanges([4,-2,-3,4,1]))
