@@ -7,5 +7,9 @@
 
 import Foundation
 
-let test = Solution0304()
-print(test.subArrayRanges([4,-2,-3,4,1]))
+let test = Solution0711()
+test.buildDict(["hello", "hallo", "leetcode"])
+print(test.search("hello"))
+print(test.search("hhllo"))
+print(test.search("hell"))
+print(test.search("leetcoded"))
