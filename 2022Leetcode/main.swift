@@ -7,9 +7,5 @@
 
 import Foundation
 
-let test = Solution0711()
-test.buildDict(["hello", "hallo", "leetcode"])
-print(test.search("hello"))
-print(test.search("hhllo"))
-print(test.search("hell"))
-print(test.search("leetcoded"))
+let test = Solution0712()
+print(test.oddCells(2, 3, [[0,1],[1,1]]))
