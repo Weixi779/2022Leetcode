@@ -7,5 +7,5 @@
 
 import Foundation
 
-let test = Solution0712()
-print(test.oddCells(2, 3, [[0,1],[1,1]]))
+let test = Solution0713()
+print(test.asteroidCollision([-2,-1,1,2]))
